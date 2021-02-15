@@ -109,7 +109,13 @@ seo:
     w wc wc c c w w ecc ce ec ce ce c ce c c cw
   description: >
     Tell your visitors a bit about this webpage, and don’t forget to add a call
-    to action in your text!
+    to action in your text! Tell your visitors a bit about this webpage, and
+    don’t forget to add a call to action in your text! Tell your visitors a bit
+    about this webpage, and don’t forget to add a call to action in your text!
+    Tell your visitors a bit about this webpage, and don’t forget to add a call
+    to action in your text! Tell your visitors a bit about this webpage, and
+    don’t forget to add a call to action in your text!Tell your visitors a bit
+    about this webpage, and don’t forget to add a call to action in your text!
   extra:
     - name: 'og:type'
       value: website
