@@ -105,7 +105,8 @@ sections:
 seo:
   title: >-
     Jamstack Ecommerce Sites Made Easy with Stackbit: A Great Alternative to
-    Shopify 
+    Shopify  wcwecwecwecwcwececwcw wecwecwec cw ewcwecwec wecwecwec wecwecwe wec
+    w wc wc c c w w ecc ce ec ce ce c ce c c cw
   description: >-
     Tell your visitors a bit about this webpage, and don’t forget to add a call
     to action in your text!
