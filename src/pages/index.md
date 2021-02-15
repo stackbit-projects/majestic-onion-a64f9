@@ -103,7 +103,9 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Page Title With Relevant Keywords
+  title: >-
+    Jamstack Ecommerce Sites Made Easy with Stackbit: A Great Alternative to
+    Shopify 
   description: >-
     Tell your visitors a bit about this webpage, and don’t forget to add a call
     to action in your text!
