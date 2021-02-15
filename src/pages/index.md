@@ -124,7 +124,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Your Webpage Title
+      value: Your SEO Friendly Webpage Title
     - name: 'twitter:description'
       value: Write a short and enticing description of your content
     - name: 'twitter:image'
