@@ -103,7 +103,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Aziffdgmuth Theme
+  title: 'Page title with relevant keywords here '
   description: The preview ofdsvsdvd the Azimuth theme
   extra:
     - name: 'og:type'
