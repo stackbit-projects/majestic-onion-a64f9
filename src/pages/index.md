@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: Stackbit Aziffdgmuth Theme
-  description: The preview of the Azimuth theme
+  description: The preview ofdsvsdvd the Azimuth theme
   extra:
     - name: 'og:type'
       value: website
