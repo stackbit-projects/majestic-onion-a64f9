@@ -126,7 +126,7 @@ seo:
     - name: 'twitter:title'
       value: Your Webpage Title
     - name: 'twitter:description'
-      value: 'A short and enticing description '
+      value: Write a short and enticing description of your content
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
