@@ -126,7 +126,7 @@ seo:
     - name: 'twitter:title'
       value: Your Webpage Title
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: 'A short and enticing description '
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
