@@ -128,7 +128,7 @@ seo:
     - name: 'twitter:description'
       value: Write a short and enticing description of your content
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/ship.jpg
       relativeUrl: true
 template: landing
 ---
