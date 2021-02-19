@@ -124,7 +124,7 @@ seo:
       value: Your SEO Friendly Webpage Title
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Write a short and enticing description of your content
       keyName: property
     - name: 'og:image'
       value: /images/umbrella-fb.jpg
