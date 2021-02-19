@@ -121,7 +121,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Your SEO Friendly Webpage Title
       keyName: property
     - name: 'og:description'
       value: The preview of the Azimuth theme
